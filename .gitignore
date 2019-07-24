@@ -1,0 +1,9 @@
+*.pyc
+*.bak
+*.txt
+*.csv
+*.pdf
+/*.svg
+/*.png
+__pycache__/**
+/attempt/**
